@@ -1,1 +1,3 @@
-# ders1-github
+# MAYADER!
+
+**Link**:  [Ders](https://github.com/okudan/ders)
